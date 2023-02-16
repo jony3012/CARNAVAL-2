@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(41, 133, 238);
+    
+    
+    }
+    header{
+        border: 0;
+        background-color: rgb(30, 41, 102);
+        padding: 2;
+        color: rgb(255, 255, 255);
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    table{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 500px;
+    
+    }
+
+
+    td{
+        border: 3.5px solid rgb(0, 0, 0);
+        border-radius: 25px;
+        padding: 0.5rem;
+        text-align: center;
+      
+        }
+      
+      
+      
+      th {
+        border: 3.5px solid rgb(0, 0, 0);
+        background-color: rgb(30, 41, 102);
+        border-radius: 25px;
+        color: rgb(255, 255, 255);
+        padding: 0.5rem;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      }
+      
+      
